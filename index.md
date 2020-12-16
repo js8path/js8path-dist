@@ -1,6 +1,9 @@
 ## JS8Path
 
-### Versions
+JS8Path tracks JS8Call reports on pskreporter.
+- searches for reports for specific stations
+- shows time and strength of individual reports
+- maps reports
+- analyzes potential relay paths
 
- - [Latest](./dist/latest/index.html)
- - [1.0.1](./dist/1.0.1/index.html)
+[Open JS8Path Application](./app/index.html)
